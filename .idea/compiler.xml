@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CountPunctuation" />
+        <module name="Ania" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CountPunctuation" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
